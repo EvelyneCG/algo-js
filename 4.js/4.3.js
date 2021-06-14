@@ -4,7 +4,7 @@ let array = [];
 let n = new Number(readlineSync.question("Choose a number between 1 and 10"));
 
 function rand10() {
-return Math.floor(Math.random() * 10);
+return Math.round(Math.random() * 10);
   };
 
 function multiRand(n) {
@@ -14,3 +14,4 @@ function multiRand(n) {
 
 console.log(multiRand(n));
 
+// reprise de la fonction de l'exo précédent et ajout d'une boucle et pusher la réponse de la fonction précédente autant de fois que nécessaire.

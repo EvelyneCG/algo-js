@@ -22,3 +22,5 @@ function max(arr) {
 	return Math.max(...arr);}
 
 console.log(multiRand(n) + " and the average of this array is " + average(arr) + ", th minimum element of this array is " + min(arr) + " and the maximum element is " + max(arr) + ".");
+
+//Honnêtement j'aurai du remplir la doc au fur et à mesure de l'exo parce que j'en suis à 3 ou 4 jours après et je ne me rappelle plus ...

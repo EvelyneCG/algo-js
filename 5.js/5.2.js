@@ -26,3 +26,4 @@ let shuffle =  randomizeCast(askSerie);
 
 	console.log("If we sort them at random it will give you this cast for a new serie: " , shuffle);
 	
+// réalisé à l'aide de Eli et surtout Adrien. Un grand BIG ENORME MERCI ADRIEN !
